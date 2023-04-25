@@ -1,0 +1,64 @@
+{
+  "basics": {
+    "name": "Emir Bartuğ Keskin",
+    "label": "Junior Frontend Developer",
+    "image": "",
+    "email": "bartukeskin1999@gmail.com",
+    "phone": "(551) 551-2150",
+    "summary": "Front-End geliştirme alanında kariyerime devam etmek ve yazılım dünyasındaki en son teknolojileri öğrenerek başarılı projelere imza atmak",
+    "location": {
+      "address": "Gaziosmanpasa, Karlitepe Mahallesi, Celebiler Sokak, No:30/32",
+      "city": "Istanbul",
+      "countryCode": "TR"
+    },
+    "profiles": [{
+      "network": "Linkedin",
+      "username": "emirBartugKeskin",
+      "url": "https://www.linkedin.com/in/emir-bartuğ-keskin-5b8686156/"
+    }]
+  },
+  "work": [{
+    "name": "Etiya",
+    "position": "Software Developer",
+    "url": "https://www.etiya.com/tr",
+    "startDate": "2021-Ekim",
+    "endDate": "2022-Ekim",
+    "summary": "XML dili ile gelen projelerde WEB Servislerinde geliştirmeler yapıldı. Servis Odaklı Mimari (SOA)"
+  }],
+  "intern1": [{
+    "name": "Günili Yazılım ve Mühendislik A.Ş",
+    "position": "Intern Software Developer",
+    "startDate": "2021-Şubat",
+    "endDate": "2022-Mart",
+    "summary": "Soket programlama konusunda araştırmalar yapıldı ve sunum gerçekleştirildi. Son olarak da soket programlama örnek uygulamaları araştırılarak benzer bir Visual Studio uygulaması geliştirildi. Bu uygulama basit halde server ve client arasında mesaj iletimi yapmayı sağladı."
+  }],
+  "intern2": [{
+    "name": "Maestro Yazılım ve Danışmanlık",
+    "position": "Intern Software Developer",
+    "startDate": "2020-Temmuz",
+    "endDate": "2020-Ağustos",
+    "summary": "Staj döneminde Microsoft Visual Studio ile görsel programlama konusunda kendini geliştirerek, Form Uygulamasında kullanılan ToolBox menüsündeki araçlar ve onlar ile ilgili özellikler, Form'un veritabanı ile bağlantısının kurulması konusunda tecrübe edindi."
+  }],
+  "education": [{
+    "institution": "Abant İzzet Baysal Üniversitesi",
+    "url": "http://www.ibu.edu.tr/tr",
+    "area": "Computer Engineering",
+    "studyType": "Bachelor",
+    "startDate": "2017-October",
+    "endDate": "2021-June"
+  }],
+  "skills": [{
+    "keywords": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "SQL",
+      "Git"
+    ]
+  }],
+  "languages": [{
+    "language": "English",
+    "fluency": "Professional Working Proficiency"
+  }]
+}
